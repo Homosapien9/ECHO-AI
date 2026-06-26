@@ -1,0 +1,9 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#020617"/>
+  <circle cx="920" cy="120" r="180" fill="#7C3AED" fill-opacity="0.28"/>
+  <circle cx="260" cy="520" r="220" fill="#22D3EE" fill-opacity="0.18"/>
+  <rect x="94" y="88" width="1012" height="454" rx="40" fill="rgba(15,23,42,0.75)" stroke="rgba(255,255,255,0.12)"/>
+  <text x="120" y="240" fill="#F8FAFC" font-size="92" font-family="Arial, Helvetica, sans-serif" font-weight="700">ECHO</text>
+  <text x="120" y="320" fill="#67E8F9" font-size="30" font-family="Arial, Helvetica, sans-serif" letter-spacing="7">THE SENTIENT CORE</text>
+  <text x="120" y="410" fill="#CBD5E1" font-size="36" font-family="Arial, Helvetica, sans-serif">Ref-only pricing. Shared-state bento. Deferred Three.js.</text>
+</svg>
