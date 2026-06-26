@@ -6,10 +6,20 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        primary: '#7c3aed',
-        secondary: '#22d3ee',
-        surface: '#0b1120',
-        panel: '#111827',
+        primary: '#7c3aed',        // Violet — your primary brand color
+        secondary: '#22d3ee',      // Cyan — accent color
+        surface: '#0b1120',        // Deep navy — background
+        panel: '#111827',          // Slightly lighter navy — cards/panels
+        // Optional: add more shades if needed
+        // 'primary-50': '#f5f3ff', ...
+      },
+      fontFamily: {
+        // Body text: Inter (excellent legibility)
+        sans: ['Inter', 'system-ui', '-apple-system', 'sans-serif'],
+        // Headlines & UI accents: JetBrains Mono (tech/developer feel)
+        display: ['JetBrains Mono', 'monospace'],
+        // For code blocks or mono elements (if any)
+        mono: ['JetBrains Mono', 'monospace'],
       },
       boxShadow: {
         neon: '0 0 32px rgba(124,58,237,0.28)',
